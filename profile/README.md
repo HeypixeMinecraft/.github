@@ -56,3 +56,40 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+
+</div align="center">
+
+
+# 布吉岛，是一个和谐有爱的服务器
+
+## 🎮 布吉岛端游震撼发布！
+2022年度手游服务器获得者、2023年度手游服务器获得者的布吉岛！
+
+✨ 跨平台新纪元
+凭借数千万注册用户的深厚积累，经过数年的精心打磨，我们首次踏上端游舞台，将为各位冒险家带来前所未有的游戏体验。
+
+在这里，您将与手游玩家同台竞技，部分玩法双端同步，打破平台界限，畅享无缝连接的游戏世界。
+
+🎪 现已开放玩法
+经典玩法
+起床战争
+空岛战争
+村庄守卫
+谁是杀手
+核心战争
+UHC
+趣味玩法
+记忆速建
+色盲派对
+搭路练习
+阵营战争
+逃离暗区
+战桥
+竞技玩法
+天空巨人
+职业乱斗
+决斗竞技
+丢锅大战
+派对游戏
+极饿游戏
+更多精彩玩法正在火热开发中...
